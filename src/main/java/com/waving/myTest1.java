@@ -9,4 +9,8 @@ public class myTest1 {
         System.out.println("I will work tomorrow!");
         System.out.println("good luck!");
     }
+    
+    public void method(){
+        
+    }
 }
